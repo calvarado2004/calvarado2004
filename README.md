@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![my stats](https://raw.githubusercontent.com/calvarado2004/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![my languages](https://raw.githubusercontent.com/calvarado2004/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 <!--
 **calvarado2004/calvarado2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
