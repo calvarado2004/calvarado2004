@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/calvarado2004/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![my stats](https://raw.githubusercontent.com/calvarado2004/stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/calvarado2004/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![my languages](https://raw.githubusercontent.com/calvarado2004/stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <!--
