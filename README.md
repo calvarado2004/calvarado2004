@@ -1,11 +1,11 @@
 ### 🔭 I’m currently working on 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/calvarado2004/stats/blob/master/generated/overview.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/calvarado2004/stats/blob/master/generated/overview.svg">
-</picture>
+![](https://github.com/calvarado2004/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/calvarado2004/stats/blob/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://github.com/calvarado2004/stats/blob/master/generated/languages.svg)
+
+![](https://github.com/calvarado2004/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/calvarado2004/stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 
 <!--
