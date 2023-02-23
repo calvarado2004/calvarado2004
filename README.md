@@ -1,6 +1,6 @@
 ### 🔭 I’m currently working on 
 
-![](https://raw.githubusercontent.com/calvarado2004/stats/master/generated/overview.svg)
+![](https://github.com/calvarado2004/stats/blob/master/generated/overview.svg)
 
 ![](https://raw.githubusercontent.com/calvarado2004/stats/master/generated/languages.svg)
 
