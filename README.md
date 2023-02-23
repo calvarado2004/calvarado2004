@@ -2,7 +2,7 @@
 
 ![](https://github.com/calvarado2004/stats/blob/master/generated/overview.svg)
 
-![](https://raw.githubusercontent.com/calvarado2004/stats/master/generated/languages.svg)
+![](https://github.com/calvarado2004/stats/blob/master/generated/languages.svg)
 
 
 <!--
